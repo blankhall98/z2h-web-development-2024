@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+header{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+header .logo {
+    width: 100px; /* Adjust the size of your logo */
+    height: auto;
+    margin-bottom: 20px; /* Spacing between logo and slogan */
+}
+
+#highlights{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+footer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#faq ul li:hover{
+    background-color: #000000;
+    color: white;
+}
